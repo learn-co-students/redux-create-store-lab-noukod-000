@@ -31,12 +31,14 @@
     "jsdom": "^9.4.1",
     "mocha": "^5.2.0",
     "mocha-multi": "^1.0.1",
+    "react-redux": "^7.1.1",
     "sinon": "^1.17.6"
   },
   "dependencies": {
     "babel-preset-env": "^1.7.0",
     "jsdom": "^9.9.1",
     "react": "^15.3.0",
-    "react-dom": "^15.3.0"
+    "react-dom": "^15.3.0",
+    "redux": "^4.0.4"
   }
 }
